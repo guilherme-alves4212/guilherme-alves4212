@@ -9,7 +9,7 @@ E ai, tudo bem? Pode me chamar de Gui ;)
 
 ### Gui, o que diabos você faz? 
 
-Atualmente sou Intelligence Analyst e meu trabalho pode se resumir em trazer, atravez de dados, oportunidades de melhorias para o business, especialmente voltado para área de atendimento. 
+Atualmente sou Intelligence Analyst e meu trabalho pode se resumir em trazer, através de dados, oportunidades de melhorias para o business, especialmente voltado para área de atendimento. 
 
 #### Principais ferramentas que utilizo hoje
 
@@ -30,7 +30,7 @@ Caso queiram se conectar, tirar duvidas ou qualquer outro ponto, [basta mandar u
 
 So, how are you? Firts of all you can call me Gui ;) 
 
-### Gui, and what the heck you do? 
+### Gui, and what the heck do you do? 
 
 I am currently an Intelligence Analyst and my work can be summarized as bringing, through data, opportunities for improvement to the business, especially focused on the customer service (CX) area. 
 
